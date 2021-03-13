@@ -1,0 +1,8 @@
+version: '3'
+services:
+  app:
+    image: gchr.io/willpower232/jekyll-toolkit
+    ports:
+      - "80:80"
+    volumes:
+      - ./:/site
