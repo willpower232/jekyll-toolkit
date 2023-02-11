@@ -6,7 +6,7 @@ Running a [dockerised development environment](https://github.com/willpower232/d
 
 Download the image
 
-`docker pull gchr.io/willpower232/jekyll-toolkit`
+`docker pull ghcr.io/willpower232/jekyll-toolkit`
 
 Create your new Jekyll site
 
